@@ -17,7 +17,7 @@ N/A
 
 The purpose of this study guide is to show you that you can do this. That we may not Know the how to the why yet, and that while we were terribly frustrated at times we made it throuh. It is a jump off point for things to come. It will give you a starting place for JavaScript,CSS,HTML,and GIT. It prepairs you through tips and notes how to do the basic of basics.
 
-![alt text](assets/images/screenshot.png)
+
 
 ## Credits
 
