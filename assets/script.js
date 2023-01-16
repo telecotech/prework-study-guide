@@ -10,4 +10,5 @@ if (topic === 'HTML') {
 } else if (topic === 'JavaScript') {
  console.log("Let's study JavaScript!");
 } else {
- console.log('Please try again!');
+ console.log('Please try again!')
+ /*
