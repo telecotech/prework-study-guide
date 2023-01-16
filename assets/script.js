@@ -5,6 +5,7 @@ function listTopics() {
       console.log(topics[x]);
     }
   }
+  
   function selectTopic() {
     if (topic === 'HTML') {
       console.log("Let's study HTML!");
