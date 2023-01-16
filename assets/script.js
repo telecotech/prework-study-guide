@@ -7,7 +7,7 @@ function listTopics() {
   }
   
   function selectTopic() {
-    if (topic === 'HTML') {
+    if (topic === 'HTML') }
       console.log("Let's study HTML!");
    /*
 if (topic === 'HTML') {
