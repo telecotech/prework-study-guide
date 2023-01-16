@@ -1,5 +1,4 @@
 var topics = ['HTML', 'CSS', 'Git', 'JavaScript'];
-
 /*
 if (topic === 'HTML') {
  console.log("Let's study HTML!");
@@ -10,5 +9,6 @@ if (topic === 'HTML') {
 } else if (topic === 'JavaScript') {
  console.log("Let's study JavaScript!");
 } else {
- console.log('Please try again!')
- /*
+ console.log('Please try again!');
+}
+*/
