@@ -6,7 +6,7 @@
 - Into into coding for beginners
 - Learn basic forms of git, vs code, and java script
 - intends to make you a better learner by engaging you with problems and fixes 
-- we learned that you can be a coder!!!!
+- we learned that you can be a coder!!!
 
 
 ## Installation
